@@ -1,12 +1,10 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
+# Computer Science Classes Lessons
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: Ap Comp Sci Class Lessons
+PURPOSE OF PROJECT: Mess around with classes in java
+VERSION or DATE: 8/29/2022
+HOW TO START THIS PROJECT: Run Main.java
+AUTHORS: Andrew Coon
+USER INSTRUCTIONS: N/A
