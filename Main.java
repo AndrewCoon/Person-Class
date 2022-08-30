@@ -10,7 +10,7 @@ public class Main {
         //def.death();
         def.say("I am dead");
         
-        Person trevor = new Person("Trevor", 14, 120, 50, false, true, true, false);
+        Person trevor = new Person("Trevor", 14, 120, 50, false, true, true, false, 25);
         trevor.say("I will start a dictatorship");
         Government tDictator = new Government("Treevor", "Dictatorship", 100, trevor);
         tDictator.join(def);
